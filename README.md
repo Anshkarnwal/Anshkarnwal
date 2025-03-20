@@ -8,9 +8,10 @@
 ---
 
  🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js
-- **Tools:** Firebase, Git, GitHub
+**Programing Languages**: React, JavaScript, HTML, CSS, Java, 
+**Libraries and Frameworks**: Redux, Node.js, Bootstrap, Material UI
+**Tools** : Git, MySQL, MongoDB, VS Code, Postman, Figma
+**Other Skills** : Data structures and Algorithms, RESTful APIs, MERN Developer, System Design
 
 ---
 
